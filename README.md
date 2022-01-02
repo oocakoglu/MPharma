@@ -1,2 +1,2 @@
 # MPharma
-Hospital Management System
+Hospital Management System - Delphi
