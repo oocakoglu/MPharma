@@ -1,2 +1,3 @@
 # MPharma
-Hospital Management System - Delphi
+Hospital Pharmacy Management System - Delphi
+![](Images/MPharma.png)
